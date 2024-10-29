@@ -1,8 +1,9 @@
+```
 Nama   :ELISABETH BANJARNAHOR
 NIM    :312410525
 Kelas  :TI.24.A5
 Matkul : Bahasa Pemrograman
-
+```
 
 # Kasus 1: Program Pemesanan Tiket Bioskop.
 
