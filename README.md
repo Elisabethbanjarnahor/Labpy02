@@ -75,7 +75,8 @@ Fungsi ```print()``` digunakan untuk menampilkan hasil perhitungan ke layar.
 Baris terakhir ini digunakan untuk memanggil fungsi ```hitung_harga_tiket()``` yang telah kita definisikan sebelumnya.
 
 ## screenshot hasil code 
-
+![](<hasil f1 1.png>)
+![](<hasil f1 2.png>)
 
 # Kasus 2: Program Kalkulator Sederhana
 
@@ -169,3 +170,5 @@ Baris terakhir ini memanggil fungsi kalkulator() sehingga semua perintah di dala
 
 
 ## screenshot hasil code 
+![](<hasil f2 1.png>)
+![](<hasil f2 2.png>)
