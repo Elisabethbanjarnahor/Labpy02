@@ -15,7 +15,7 @@ Gunakan if else dan operator ternary.
 ## Flowchart pemograman
 
 
-"python"
+``python``
 ```ruby
 def hitung_harga_tiket():
     jenis_tiket = input("Masukkan jenis tiket (reguler/VIP): ").lower()
