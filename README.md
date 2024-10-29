@@ -13,7 +13,7 @@ Gunakan if else dan operator ternary.
 
 
 ## Flowchart pemograman
-
+![flow kasus 1.jpg](https://github.com/Elisabethbanjarnahor/Foto/blob/8e0daedfae4173183958cd8d16bbf3c2edf78178/flow%20kasus%201.jpg)
 
 ``python``
 ```ruby
@@ -85,7 +85,7 @@ Gunakan if elif else untuk menentukan operasi aritmatika.
 
 
 ## flowchart pemograman
-
+![flow](https://github.com/Elisabethbanjarnahor/Foto/blob/8e0daedfae4173183958cd8d16bbf3c2edf78178/flow%20kasus%202.jpg)
 
 ``python``
 ```ruby
